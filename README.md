@@ -18,12 +18,6 @@
 * L - load last saved paiting
 * SPACE - paint square
 
-
-> **Note**
-> I'm no longer working on this project. 
-> This was simple lesson on how to save to a file.
-
-
 ## Download
 
 - Please be my guest and download the project to use as intended.
@@ -33,5 +27,6 @@
 
 - This was made on Java using the SimpleGraphics library.
 
-
-
+> **Note**
+> I'm no longer working on this project. 
+> This was simple lesson on how to save to a file.
