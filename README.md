@@ -26,12 +26,12 @@
 
 ## Download
 
-- Please be my guest and download the project to use it as you intend.
+- Please be my guest and download the project to use as intended.
 
 
 ## Languages and Libraries
 
-- This was made on Java using SimpleGraphics library.
+- This was made on Java using the SimpleGraphics library.
 
 
 
