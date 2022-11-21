@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">A simple version of paint, using a SimpleGraphics as a library.</h4>
+<h4 align="center">A simple version of paint, using SimpleGraphics as a library.</h4>
 
 ## How to use
 
