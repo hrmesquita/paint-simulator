@@ -1,6 +1,9 @@
+> **Note**
+> I'm no longer working on this project. 
+> This was simple lesson on how to save to a file.
+
 # paint-simulator
 *A simple simulation of paint*
-
 
 <h1 align="center">
   <br>
@@ -26,7 +29,3 @@
 ## Languages and Libraries
 
 - This was made on Java using the SimpleGraphics library.
-
-> **Note**
-> I'm no longer working on this project. 
-> This was simple lesson on how to save to a file.
